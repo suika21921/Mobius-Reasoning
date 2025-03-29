@@ -1,7 +1,7 @@
 
 # Mobius Reasoning Architecture: A Dual-Loop System for Verifiable Inference
 
-##Openness Context
+
 📌 本架構尚處於設計與概念驗證階段。許多模組的邏輯仍在推演中，並未定義終極答案。
 
 Mobius Reasoning 不是一套封閉的推理系統，而是一種正在自我形成的思考架構。
