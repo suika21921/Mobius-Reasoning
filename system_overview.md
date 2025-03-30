@@ -8,7 +8,7 @@ Mobius Reasoning 的整體設計，如同其名字所暗示，模仿 Möbius 環
 
 ## 🧭 Mobius 推理閉環圖（推理循環概念示意）
 
-![Mobius Flowchart](../mobius_flowchart.png)
+![Mobius Flowchart](mobius_flowchart.png)
 
 如上圖所示，整體推理流程可簡化為三大階段：
 
