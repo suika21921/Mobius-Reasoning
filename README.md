@@ -2,11 +2,6 @@
 # Mobius Reasoning Architecture: A Dual-Loop System for Verifiable Inference
 
 
-📌 本架構尚處於設計與概念驗證階段。許多模組的邏輯仍在推演中，並未定義終極答案。
-
-Mobius Reasoning 不是一套封閉的推理系統，而是一種正在自我形成的思考架構。
-我希望透過公開分享它的演化過程，邀請更多人參與，或至少讓有類似困惑的人知道：AI 推理不一定只有預測這一條路。
-
 ## Abstract
 The Mobius Reasoning Architecture (MRA) introduces a novel framework for inference systems that intertwine truth construction and falsifiability in a continuous, closed-loop form. Inspired by the Möbius strip topology, MRA treats each conclusion not as a static truth but as the result of dynamic interplay between affirmation and refutation under a given condition space.
 
